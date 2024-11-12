@@ -1,7 +1,7 @@
 # The Impact of Air Quality on Respiratory Health
 
 ## Overview
-This project, conducted by Sri Kumar Dundigalla as part of the ISM6419 Fall 2023 course under Prof. Johannes Reichgelt, investigates the correlation between ambient particulate matter pollution levels and all-cause mortality rates across various countries. With a comprehensive analysis spanning densely populated nations to countries with clearer skies, this research uncovers the significant impact of air pollution on global health outcomes.
+This project investigates the correlation between ambient particulate matter pollution levels and all-cause mortality rates across various countries. With a comprehensive analysis spanning densely populated nations to countries with clearer skies, this research uncovers the significant impact of air pollution on global health outcomes.
 
 ## Objective
 To explore the link between air pollution and health outcomes, specifically:
