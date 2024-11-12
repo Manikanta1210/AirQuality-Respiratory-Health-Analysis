@@ -53,6 +53,3 @@ The project also proposes additional research questions for future investigation
 
 ## Contributing
 Contributions are welcome. Please open an issue or submit a pull request with your suggestions.
-
-## Acknowledgments
-Thanks to Prof. Johannes Reichgelt and the resources provided by WHO, HealthData.org, Our World in Data, and other data sources mentioned.
